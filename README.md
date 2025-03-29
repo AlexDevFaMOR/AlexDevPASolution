@@ -13,7 +13,7 @@
   <table width="100%">
     <tr>
       <td>
-        <img src="assets/header_animated1 (1).png">
+        <img src="assets/header_animated1 (1) (1).png">
       </td>
     </tr>
   </table>
