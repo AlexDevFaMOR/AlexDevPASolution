@@ -9,11 +9,9 @@
     <tr>
       <td>
         <div align="center">
-  
 <!-- Welcome Banner -->
-# AlexDevPASo lution & CiberPunk EdgeRunners Mod
-  
-</div>
+         <h1>AlexDevPASo lution & CiberPunk EdgeRunners Mod</h2>
+       </div>
       </td>
     </tr>
     <tr>
@@ -63,11 +61,10 @@
 <div align="center">
   <table>
     <tr>
-      <th>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="50"><br>Windows<br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="50"><br>Apple<br>  
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="50"><br>Ubuntu<br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="50"><br>Android
+      <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="50"><br>Windows<br></th>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="50"><br>Apple<br>  
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="50"><br>Ubuntu<br>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="50"><br>Android
       </th>
       <th>
         <img src="assets/SANdervis.png">
