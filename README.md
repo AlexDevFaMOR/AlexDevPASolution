@@ -1,9 +1,3 @@
-<div align="center">
-  
-<!-- Welcome Banner -->
-# AlexDevPASolution & CiberPunk EdgeRunners Mod
-  
-</div>
  <!-- Home Header -->
 <div align="center">
   <table width="100%">
@@ -12,14 +6,29 @@
         <img src="assets/Header.png">
       </td>
     </tr>
+    <tr>
+      <td>
+        <div align="center">
+  
+<!-- Welcome Banner -->
+# AlexDevPASo lution & CiberPunk EdgeRunners Mod
+  
+</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="assets/ascii-art.png">
+      </td>
+    </tr>
   </table>
 </div>
 <div align="center">
   
   ```diff
-      @@      @@         SYSTEM BOOT SEQUENCE INITIATED          @@      @@
-          @@        @@          NEURAL INTERFACE: ESTABLISHED           @@        @@
-  @@          @@       CYBERDECK STATUS: OPERATIONAL         @@          @@
+  @   @       @@   @      SYSTEM BOOT SEQUENCE INITIATED          @@      @@      @
+  @     @@        @@       NEURAL INTERFACE: ESTABLISHED           @@        @@
+  @@          @@     @    CYBERDECK STATUS: OPERATIONAL         @@          @@      @@
   ```
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=25&duration=4000&pause=1000&color=00E0FF&center=true&vCenter=true&random=false&width=980&lines=NETRUNNER+STATUS%3A+ONLINE;EXECUTING+NEURAL+PROTOCOLS...;REALITY+DISTORTION+FIELD+ACTIVATED)](https://git.io/typing-svg)
